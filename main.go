@@ -20,9 +20,8 @@ var (
 )
 
 func init() {
-	Token = "ODUyNzQ5OTI1MTQ2MTY1MjY4.YMLXQQ.idxKNHVQ2XRRQULwYb4E0s8zEKk"
+	Token = ""
 	t0 = time.Now()
-
 }
 
 func main() {
